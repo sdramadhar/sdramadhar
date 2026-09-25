@@ -7,3 +7,6 @@ B.E. Computer Science & Engineering | Software Developer | AI/ML Enthusiast
 <p align="center">
 Building practical software solutions with C++, Python and Java.
 </p>
+<p align="center">
+  <img src="ramadhar_github_animated_titles.gif" width="100%">
+</p>
