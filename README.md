@@ -1,3 +1,20 @@
+<div align="center">
+
+<img src="./line-neon.gif"
+     width="100%"
+     height="6"
+     alt="">
+
+<br>
+
+<img src="./github-banner-v2.png"
+     width="100%"
+     alt="Ramadhar Sahu GitHub Banner">
+
+</div>
+
+<br>
+
 <img src="./github-banner-v2.png"
      width="100%"
      alt="Ramadhar Sahu GitHub Banner">
