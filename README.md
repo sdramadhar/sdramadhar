@@ -14,12 +14,6 @@
 </div>
 
 <br>
-
-<img src="./github-banner-v2.png"
-     width="100%"
-     alt="Ramadhar Sahu GitHub Banner">
-
-<br>
 <h1 align="center">Hi 👋, I'm Ramadhar Sahu</h1>
 
 <h3 align="center">
