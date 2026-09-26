@@ -1,4 +1,19 @@
+<div align="center">
 
+<img src="./line-neon.gif"
+     width="100%"
+     height="6"
+     alt="">
+
+<br>
+
+<img src="./github-banner-v4.png"
+     width="100%"
+     alt="Ramadhar Sahu GitHub Banner">
+
+</div>
+
+<br>
 <h1 align="center">Hi 👋, I'm Ramadhar Sahu</h1>
 
 <h3 align="center">
