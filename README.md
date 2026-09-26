@@ -338,6 +338,58 @@ Participated in a national-level hackathon and worked on an innovative technolog
 
 <hr>
 
+<hr>
 
+<div align="center">
+
+## 🎯 Current Focus
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 DSA & Problem Solving
+
+Strengthening **C++**,  
+Data Structures & Algorithms,  
+and logical problem-solving.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Software Development
+
+Building real-world projects  
+with **React, Node.js, TypeScript**  
+and modern web technologies.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+Exploring **Python, AI/ML**  
+and data-driven applications  
+through practical projects.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🌱 Learning • Building • Improving
+
+**My goal is to continuously improve my technical skills and build practical solutions that solve real-world problems.**
+
+</div>
+
+<hr>
 
 
