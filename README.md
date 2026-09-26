@@ -11,18 +11,44 @@ Building practical software solutions with C++, Python and Java.
   <img src="ramadhar_only_animated_titles_rama.gif" width="650">
 </p>
 
-<div align="center">
-### 👨‍💻 About Me
----
+<hr>
 
-### 👨‍💻 Computer Science & Engineering Student | Software Developer
+<div align="center">
+
+# 👨‍💻 About Me
+
+### B.E. Computer Science & Engineering Student • Software Developer • Problem Solver
 
 </div>
 
-```yaml
-Name: Ramadhar Sahu
-Role: B.E. Computer Science & Engineering Student
-College: Rathinam Institute of Technology, Bangalore
-Focus: Software Development • DSA • AI/ML
-Goal: Build practical solutions for real-world problems
 ---
+
+🎓 Currently pursuing **B.E. in Computer Science & Engineering** at **Rathinam Institute of Technology, Bangalore**.
+
+💻 Interested in **Software Development, Data Structures & Algorithms, Artificial Intelligence and Machine Learning**.
+
+🧠 Currently strengthening my **DSA and problem-solving skills using C++**.
+
+🐍 Exploring **AI/ML and data-driven applications with Python**.
+
+☕ Building strong programming fundamentals through **C, C++, Java and Python**.
+
+🚀 Interested in **building practical projects and solving real-world problems**.
+
+📚 Continuously learning **new technologies, development tools and modern programming practices**.
+
+🌱 Focused on improving my **problem-solving, coding and software development skills** every day.
+
+🎯 **Goal:** Become a skilled Software Developer and build useful, impactful technology.
+
+📍 **Bangalore, India**
+
+---
+
+<div align="center">
+
+**BUILD • LEARN • SOLVE • CREATE**
+
+</div>
+
+<hr>
