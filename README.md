@@ -15,31 +15,29 @@ Building practical software solutions with C++, Python and Java.
 
 <div align="center">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-### B.E. Computer Science & Engineering Student • Software Developer • Problem Solver
+**B.E. Computer Science & Engineering Student • Software Developer • Problem Solver**
 
 </div>
 
 ---
 
-🎓 Currently pursuing **B.E. in Computer Science & Engineering** at **Rathinam Institute of Technology, Bangalore**.
+🎓 Pursuing **B.E. in Computer Science & Engineering** at **Rathinam Institute of Technology, Bangalore**.
 
-💻 Interested in **Software Development, Data Structures & Algorithms, Artificial Intelligence and Machine Learning**.
+💻 Interested in **Software Development, DSA, Artificial Intelligence & Machine Learning**.
 
-🧠 Currently strengthening my **DSA and problem-solving skills using C++**.
+🧠 Strengthening **DSA and problem-solving skills with C++**.
 
 🐍 Exploring **AI/ML and data-driven applications with Python**.
 
-☕ Building strong programming fundamentals through **C, C++, Java and Python**.
+☕ Building programming fundamentals with **C, C++, Java & Python**.
 
-🚀 Interested in **building practical projects and solving real-world problems**.
+🚀 Interested in **real-world projects and practical software solutions**.
 
-📚 Continuously learning **new technologies, development tools and modern programming practices**.
+📚 Continuously learning **new technologies and development practices**.
 
-🌱 Focused on improving my **problem-solving, coding and software development skills** every day.
-
-🎯 **Goal:** Become a skilled Software Developer and build useful, impactful technology.
+🎯 **Goal:** Grow as a Software Developer and build impactful solutions.
 
 📍 **Bangalore, India**
 
@@ -47,7 +45,7 @@ Building practical software solutions with C++, Python and Java.
 
 <div align="center">
 
-**BUILD • LEARN • SOLVE • CREATE**
+**Build • Learn • Solve • Create**
 
 </div>
 
