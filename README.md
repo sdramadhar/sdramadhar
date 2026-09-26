@@ -52,22 +52,86 @@ Building practical software solutions with C++, Python and Java.
 
 ## 🛠️ Technologies & Tools I Work With
 
-### 💻 Programming Languages
-C • C++ • Java • Python
+<table>
+<tr>
+<td><b>Programming</b></td>
+<td>
 
-### 🧠 Core Skills
-Data Structures & Algorithms • OOP • Problem Solving
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-### 🤖 AI & Data
-Python • Artificial Intelligence • Machine Learning • Data Analysis
+</td>
+</tr>
 
-### 🌐 Web Technologies
-HTML • CSS • JavaScript
+<tr>
+<td><b>Core Skills</b></td>
+<td>
 
-### 🗄️ Database
-SQL • PostgreSQL
+<img src="https://img.shields.io/badge/DSA-1F2937?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem%20Solving-7C3AED?style=for-the-badge">
 
-### 🔧 Tools & Platforms
-Git • GitHub • VS Code
+</td>
+</tr>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-0EA5E9?style=for-the-badge">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Web Development</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Database</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Currently Learning</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Modern%20Web%20Development-6366F1?style=for-the-badge">
+
+</td>
+</tr>
+</table>
 
 <hr>
+
+
