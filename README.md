@@ -23,19 +23,23 @@ Building practical software solutions with C++, Python and Java.
 
 ---
 
+<sub>
+
 - 🎓 Pursuing **B.E. in Computer Science & Engineering** at **Rathinam Institute of Technology, Bangalore**
 - 💻 Interested in **Software Development, DSA & AI/ML**
 - 🧠 Strengthening **C++ & problem-solving** through DSA
 - 🐍 Exploring **AI/ML and data-driven applications with Python**
-- ☕ Building strong foundations in **C, C++, Java & Python**
-- 🚀 Building **real-world projects and practical software solutions**
-- 🧩 Constantly improving **problem-solving, logical thinking & coding skills**
-- 📚 Continuously learning **new technologies and development practices**
-- 🔍 Exploring **new tools, frameworks and modern software technologies**
-- 🛠️ Turning ideas into **practical and useful projects**
-- 🌱 Learning, building and improving **every day**
-- 🎯 Goal: **Grow as a Software Developer and build impactful solutions**
+- ☕ Building foundations in **C, C++, Java & Python**
+- 🚀 Building **real-world projects and practical solutions**
+- 🧩 Improving **problem-solving, logical thinking & coding skills**
+- 📚 Learning **new technologies and development practices**
+- 🔍 Exploring **new tools, frameworks & software technologies**
+- 🛠️ Turning ideas into **practical projects**
+- 🌱 Learning, building & improving **every day**
+- 🎯 Goal: **Grow as a Software Developer**
 - 📍 **Bangalore, India**
+
+</sub>
 
 
 ---
