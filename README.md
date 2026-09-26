@@ -291,3 +291,47 @@ CampusTest Pro is a full-stack platform designed to manage the complete college 
 </div>
 
 <hr>
+
+<hr>
+
+<div align="center">
+
+## 🏆 Certifications & Participation
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 📜 Python Crash Course
+
+🎓 **Python Crash Course — Coursera**
+
+Certificate of completion for learning Python programming fundamentals and practical concepts.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏅 DriveNext RANE SLD National Hackathon — Chennai
+
+🚀 **Participation Certificate**
+
+Certificate of participation in the national-level hackathon held in Chennai.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 📚 Currently Learning
+
+`C++` • `DSA` • `Python` • `AI/ML` • `React` • `Node.js` • `TypeScript`
+
+</div>
+
+<hr>
