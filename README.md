@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./github-banner.png"
-     width="110%"
+     width="130%"
      alt="Ramadhar Sahu GitHub Banner">
 
 </div>
