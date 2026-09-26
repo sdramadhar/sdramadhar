@@ -170,3 +170,18 @@ Building practical software solutions with C++, Python and Java.
 </div>
 
 <hr>
+
+<hr>
+
+<div align="center">
+
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/sdramadhar/sdramadhar/output/github-contribution-grid-snake.svg" width="90%">
+<br><br>
+
+### 💻 Coding • Learning • Building
+
+</div>
+
+<hr>
