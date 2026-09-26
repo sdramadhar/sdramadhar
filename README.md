@@ -47,3 +47,27 @@ Building practical software solutions with C++, Python and Java.
 </div>
 
 <hr>
+
+<hr>
+
+## 🛠️ Technologies & Tools I Work With
+
+### 💻 Programming Languages
+C • C++ • Java • Python
+
+### 🧠 Core Skills
+Data Structures & Algorithms • OOP • Problem Solving
+
+### 🤖 AI & Data
+Python • Artificial Intelligence • Machine Learning • Data Analysis
+
+### 🌐 Web Technologies
+HTML • CSS • JavaScript
+
+### 🗄️ Database
+SQL • PostgreSQL
+
+### 🔧 Tools & Platforms
+Git • GitHub • VS Code
+
+<hr>
