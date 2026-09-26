@@ -48,13 +48,25 @@ Building practical software solutions with C++, Python and Java.
 
 <hr>
 
+
 <hr>
 
-## 🛠️ Technologies & Tools I Work With
+<div align="center">
 
-<table>
+<img src="./ramadhar_coding_animation.gif" width="100">
+
+# 🛠️ Technologies & Tools
+
+</div>
+
+<table align="center">
 <tr>
-<td><b>Programming</b></td>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
+
+<tr>
+<td><b>Programming Languages</b></td>
 <td>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -69,9 +81,21 @@ Building practical software solutions with C++, Python and Java.
 <td><b>Core Skills</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/DSA-1F2937?style=for-the-badge">
-<img src="https://img.shields.io/badge/OOP-4B5563?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem%20Solving-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem%20Solving-0891B2?style=for-the-badge">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend Development</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 </td>
 </tr>
@@ -80,21 +104,8 @@ Building practical software solutions with C++, Python and Java.
 <td><b>AI / ML</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analysis-0EA5E9?style=for-the-badge">
-
-</td>
-</tr>
-
-<tr>
-<td><b>Web Development</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 </td>
 </tr>
@@ -110,7 +121,7 @@ Building practical software solutions with C++, Python and Java.
 </tr>
 
 <tr>
-<td><b>Tools</b></td>
+<td><b>Tools & Version Control</b></td>
 <td>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -130,8 +141,7 @@ Building practical software solutions with C++, Python and Java.
 
 </td>
 </tr>
+
 </table>
 
 <hr>
-
-
