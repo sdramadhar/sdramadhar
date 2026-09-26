@@ -12,7 +12,6 @@ Building practical software solutions with C++, Python and Java.
 </p>
 
 <hr>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sdramadhar&label=Profile%20Views&color=8e44ad&style=flat-square" alt="Profile Views">
@@ -20,7 +19,6 @@ Building practical software solutions with C++, Python and Java.
 <img src="https://img.shields.io/github/followers/sdramadhar?label=Followers&style=flat-square" alt="GitHub Followers">
 
 </div>
-
 <hr>
 
 <hr>
