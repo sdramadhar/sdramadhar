@@ -21,8 +21,6 @@ Building practical software solutions with C++, Python and Java.
 </div>
 <hr>
 
-<hr>
-
 <div align="center">
 
 ## 👨‍💻 About Me
