@@ -1,10 +1,8 @@
 <div align="center">
-
 <img src="./line-neon.gif"
      width="100%"
      height="6"
      alt="">
-
 <br>
 
 <img src="./github-banner-v4.png"
