@@ -23,7 +23,6 @@ Building practical software solutions with C++, Python and Java.
 
 ---
 
-<sub>
 
 - 🎓 Pursuing **B.E. in Computer Science & Engineering** at **Rathinam Institute of Technology, Bangalore**
 - 💻 Interested in **Software Development, DSA & AI/ML**
@@ -38,8 +37,6 @@ Building practical software solutions with C++, Python and Java.
 - 🌱 Learning, building & improving **every day**
 - 🎯 Goal: **Grow as a Software Developer**
 - 📍 **Bangalore, India**
-
-</sub>
 
 
 ---
