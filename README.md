@@ -305,11 +305,13 @@ CampusTest Pro is a full-stack platform designed to manage the complete college 
 
 <td align="center" width="50%">
 
-### 📜 Python Crash Course
+### 📜 Crash Course on Python
 
-🎓 **Python Crash Course — Coursera**
+🎓 **Google — Coursera**
 
-Certificate of completion for learning Python programming fundamentals and practical concepts.
+Completed **Crash Course on Python** covering Python programming fundamentals and practical concepts.
+
+📅 July 19, 2026
 
 </td>
 
@@ -319,7 +321,7 @@ Certificate of completion for learning Python programming fundamentals and pract
 
 🚀 **Participation Certificate**
 
-Certificate of participation in the national-level hackathon held in Chennai.
+Participated in a national-level hackathon and worked on an innovative technology solution.
 
 </td>
 
@@ -335,3 +337,7 @@ Certificate of participation in the national-level hackathon held in Chennai.
 </div>
 
 <hr>
+
+
+
+
