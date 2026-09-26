@@ -13,7 +13,6 @@ Building practical software solutions with C++, Python and Java.
 <p align="center">
   <img src="ramadhar_only_animated_titles_rama.gif" width="650">
 </p>
-
 <hr>
 <div align="center">
 
