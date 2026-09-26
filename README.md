@@ -154,17 +154,18 @@ Building practical software solutions with C++, Python and Java.
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=sdramadhar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sdramadhar&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdramadhar&layout=donut&hide_border=true&theme=transparent&langs_count=6" height="170">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdramadhar&layout=compact&theme=transparent&hide_border=true" width="40%">
+<img src="https://streak-stats.demolab.com?user=sdramadhar&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%">
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sdramadhar&theme=transparent&hide_border=true" width="55%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdramadhar&theme=transparent" width="90%">
 
 </div>
 
