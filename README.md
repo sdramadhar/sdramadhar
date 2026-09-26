@@ -185,3 +185,78 @@ Building practical software solutions with C++, Python and Java.
 </div>
 
 <hr>
+
+<hr>
+
+<div align="center">
+
+## 🚀 Featured Project
+
+### 🏫 CampusTest Pro
+
+**Full-Stack College Assessment & Examination Platform**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+### 🎯 What is CampusTest Pro?
+
+CampusTest Pro is a full-stack platform designed to manage the complete college assessment workflow — from question creation and exam scheduling to student attempts, evaluation, results and analytics.
+
+**Key Features**
+
+- 🔐 Role-based authentication & access control
+- 🏫 College & academic management
+- 👨‍🏫 Faculty & student management
+- 📝 Question bank & assessment builder
+- 📚 Multiple question types
+- ⏱️ Online examination engine
+- 💻 Coding assessments
+- 🤖 AI-powered question generation
+- 📊 Analytics, reports & leaderboards
+- 🔍 Question/document import & OCR
+- 🛡️ Security events & audit logging
+
+</td>
+
+<td width="40%" valign="top">
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- Next.js
+- TypeScript
+
+**Backend**
+- NestJS
+- TypeScript
+
+**Database**
+- PostgreSQL
+- Prisma
+- Redis
+
+**Infrastructure**
+- Docker
+- BullMQ
+
+### 🔗 Repository
+
+<a href="https://github.com/sdramadhar/campus-test-pro">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Building • Learning • Solving Real-World Problems**
+
+</div>
+
+<hr>
