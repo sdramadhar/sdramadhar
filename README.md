@@ -13,35 +13,33 @@ Building practical software solutions with C++, Python and Java.
 <div align="center">
 
 # 👨‍💻 ABOUT ME
+
+### Computer Science & Engineering Student • Software Developer • Problem Solver
+
 </div>
 
-I'm **Ramadhar Sahu**, a B.E. Computer Science & Engineering student at 
-**Rathinam Institute of Technology, Bangalore**.
+---
 
-### 💡 What I Do
+🎓 I'm **Ramadhar Sahu**, currently pursuing **B.E. in Computer Science & Engineering** at **Rathinam Institute of Technology, Bangalore**.
 
-> I enjoy turning programming concepts into practical solutions and
-> continuously improving my problem-solving skills.
+💻 I’m interested in **Software Development, Data Structures & Algorithms, Artificial Intelligence and Machine Learning**.
 
-| 🎯 Focus | 📌 Currently Working On |
-|---|---|
-| Software Development | Building practical projects |
-| Data Structures & Algorithms | DSA with C++ |
-| Artificial Intelligence | Exploring AI/ML with Python |
-| Programming | C • C++ • Java • Python |
+🧠 Currently strengthening my **DSA and problem-solving skills with C++** while improving my programming fundamentals.
+
+🐍 Exploring **Python for AI/ML** and building practical projects to turn ideas into real-world solutions.
+
+☕ Also learning and improving my skills in **Java and Object-Oriented Programming**.
+
+🚀 I enjoy **building projects, learning new technologies, solving problems, and continuously improving my development skills**.
 
 ### 🌱 Currently Learning
 
-**DSA & Problem Solving** → **Software Development** → **AI/ML**
+**DSA & Problem Solving** • **Software Development** • **AI/ML** • **New Technologies**
 
-I'm also exploring new technologies and development tools as I build projects
-and strengthen my programming fundamentals.
+### 🎯 My Goal
 
-### 🚀 My Approach
-
-**Learn → Practice → Build → Improve**
-
-I believe consistent learning and building real-world projects are the best
-ways to grow as a developer.
+> **Learn continuously. Build practically. Solve intelligently. Grow consistently.**
 
 📍 **Bangalore, India**
+
+---
