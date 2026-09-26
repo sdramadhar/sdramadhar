@@ -28,9 +28,13 @@ Building practical software solutions with C++, Python and Java.
 - 🧠 Strengthening **C++ & problem-solving** through DSA
 - 🐍 Exploring **AI/ML and data-driven applications with Python**
 - ☕ Building strong foundations in **C, C++, Java & Python**
-- 🚀 Building **real-world projects and practical solutions**
-- 📚 Learning **new technologies and modern development practices**
-- 🎯 Goal: **Grow as a Software Developer**
+- 🚀 Building **real-world projects and practical software solutions**
+- 🧩 Constantly improving **problem-solving, logical thinking & coding skills**
+- 📚 Continuously learning **new technologies and development practices**
+- 🔍 Exploring **new tools, frameworks and modern software technologies**
+- 🛠️ Turning ideas into **practical and useful projects**
+- 🌱 Learning, building and improving **every day**
+- 🎯 Goal: **Grow as a Software Developer and build impactful solutions**
 - 📍 **Bangalore, India**
 
 
