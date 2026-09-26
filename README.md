@@ -149,3 +149,23 @@ Building practical software solutions with C++, Python and Java.
 </table>
 
 <hr>
+
+<hr>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sdramadhar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdramadhar&layout=compact&theme=transparent&hide_border=true" width="40%">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sdramadhar&theme=transparent&hide_border=true" width="55%">
+
+</div>
+
+<hr>
